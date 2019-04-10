@@ -1,8 +1,7 @@
 # Course_Resourse_Collection
++ 谋事在人，成事在天。学习资源要用才体现出价值。
 + 仅负责收集，以便整理使用，相关权利由原作者所有。
 + 若有任何不当之处，请及时联系处理。
-
-## 谋事在人，成事在天
 
 ## 大学课程资源
 + [中国科学技术大学课程](https://ustc-resource.github.io/USTC-Course/)
